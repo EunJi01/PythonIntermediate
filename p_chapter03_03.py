@@ -107,7 +107,7 @@ print(students)
 
 # 추천
 students2 = [Classes(rank, number)
-            for rank in 'A B C D'
+            for rank in 'A B C D'.split()
                 for number in [str(n)
                     for n in range(1, 21)]]
 
