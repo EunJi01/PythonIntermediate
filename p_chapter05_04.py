@@ -1,4 +1,4 @@
-# Chapter05-03
+# Chapter05-04
 # 일급 함수(일급 객체)
 # 클로저 기초
 # 데코레이터(Decorator)
