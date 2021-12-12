@@ -36,6 +36,7 @@ print(isinstance(t, abc.Iterable))
 print()
 print()
 
+
 # next 사용
 class WordSplitter:
     def __init__(self, text):
