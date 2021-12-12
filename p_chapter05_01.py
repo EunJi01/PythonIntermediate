@@ -79,3 +79,5 @@ six = partial(five, 6)
 
 print(five(10))
 print(six())
+print([five(i) for i in range(1,11)])
+print(list(map(five, range(1,11))))
